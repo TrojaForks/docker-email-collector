@@ -5,7 +5,7 @@ export LC_ALL=C
 
 # If you want to specify any additional OPTION to the start
 # scripts specify them here
-# OPTIONS=...
+OPTIONS=-vv
 
 # Declare here if we want to start fetchmail. 'yes' or 'no'
 START_DAEMON=yes
